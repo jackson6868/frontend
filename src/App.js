@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        chomik
+    i was chnaged on the feature branch
 	  </a> </header>
     </div>
   );
